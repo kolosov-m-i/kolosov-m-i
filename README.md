@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @kolosov-m-i
-- 👀 I’m interested in recognition of face.
-- 🌱 I’m currently learning by yourself.
-- 💞️ I’m looking to collaborate on recognition of face.
-- 📫 How to reach me kolosov-m-i@yandex.ru.
+# Михаил Колосов
 
-<!---
-kolosov-m-i/kolosov-m-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Веб-разработчик. Делаю лендинги, ботов, автоматизации и интеграции с ИИ — от идеи до готового результата.
+
+## Кто я
+
+Пишу код на HTML, CSS, JavaScript и Python. Простые и понятные решения: без лишних фреймворков и сложной инфраструктуры там, где они не нужны. Люблю, когда продукт работает быстро и удобно.
+
+## Стек
+
+- HTML / CSS / JavaScript
+- Python
+- Git
+
+## Направления
+
+- Лендинги и одностраничные сайты
+- Боты и автопостинг
+- Автоматизация рутинных задач
+- Интеграции с ИИ
+
+## Контакты
+
+- Email: [kolosov-m-i@yandex.ru](mailto:kolosov-m-i@yandex.ru)
+- GitHub: [github.com/kolosov-m-i](https://github.com/kolosov-m-i)
